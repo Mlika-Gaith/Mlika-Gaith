@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ghaith mlika.</h1>
-<h3 align="center">A passionate computer science student from tunisia.</h3>
+<h3 align="center">A passionate computer science student from Tunisia.</h3>
 
 - 🔭 I’m currently working on **improving my react and react native skills**
 
