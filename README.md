@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **front-end/ react projects**
 
-- 📫 How to reach me **mlika.gaith@gmail.com**
+- 📫 How to reach me **ghaith.mlika@polytechnicien.tn**
 
 - :alien: Hobbies : **video-games and movies.**
 
