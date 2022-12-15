@@ -1,6 +1,7 @@
 ## I am Ghaith Mlika
 
 **`Computer Science Student (Developer)`**
+
 **`Documenting My Learning Journey`**
 
 [![Linkedin: Ghaith](https://img.shields.io/badge/-Ghaith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghaith-mlika-305797214/)](https://www.linkedin.com/in/ghaith-mlika-305797214/) &nbsp; ![GitHub followers](https://img.shields.io/github/followers/Mlika-Gaith?label=Follow&style=social) &nbsp; ![Total Stars On Github](https://custom-icon-badges.demolab.com/github/stars/Mlika-Gaith?label=Total+Stars&color=yellow) &nbsp;
