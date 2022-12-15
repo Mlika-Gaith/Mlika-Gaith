@@ -1,8 +1,4 @@
-<div style="display:flex;align-items:center;flex-direction:row;">
-<img width="200" height="100" src="./assets/Handwave.gif"/>   
-<h2>I am Ghaith Mlika</h2>
-</div>
-<br>
+## I am Ghaith Mlika
 
 **`Computer Science Student (Developer)`**
 **`Documenting My Learning Journey`**
@@ -11,11 +7,7 @@
 
 ---
 
-<div style="display:flex;align-items:center;flex-direction:row;">
-<img width="100" height="100" src="./assets/goma-cat.gif"/>   
-<h2>Technologies I use</h2>
-</div>
-<br>
+## Technologies I use
 
 [![Java](https://custom-icon-badges.demolab.com/badge/-Java-bb3e03?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![Javascript](https://custom-icon-badges.demolab.com/badge/-Javascript-ffd60a?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/) [![Typescript](https://custom-icon-badges.demolab.com/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
