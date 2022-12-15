@@ -1,4 +1,4 @@
-<div id="qr" style="width:100%;display:flex;align_items:center; justify-content:center;" >
+<div id="qr" style="width:100%;display:flex;align_items:center; justify-content:center;flex-direction:row" >
   <img src="./assets/Handwave.gif" style="height:2cm;">
   <h2>I AM Ghaith</h2>
 </div>
