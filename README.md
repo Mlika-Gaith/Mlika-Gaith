@@ -1,8 +1,6 @@
-<img align="left" width="100" height="100" src="./assets/Handwave.gif">
+<img align="left" width="200" height="100" src="./assets/Handwave.gif">
 
-```
 I AM Ghaith Mlika
-```
 
 **`Computer Science Student (Developer)`**
 
