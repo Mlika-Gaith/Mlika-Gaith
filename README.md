@@ -1,5 +1,4 @@
-<img style="float: right;height:2cm;" src="./assets/Handwave.gif">
-### I am Ghaith
+<h3><img style="float: right;height:2cm;" src="./assets/Handwave.gif"> I am Ghaith</h3>
 
 **`Computer Science Student (Developer)`**
 
