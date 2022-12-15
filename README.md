@@ -1,7 +1,5 @@
-<div id="qr" style="width:100%;display:flex;align_items:center; justify-content:center;flex-direction:row" >
-  <img src="./assets/Handwave.gif" style="height:2cm;">
-  <h2>I AM Ghaith</h2>
-</div>
+<img style="float: right;height:2cm;" src="./assets/Handwave.gif">
+### I am Ghaith
 
 **`Computer Science Student (Developer)`**
 
