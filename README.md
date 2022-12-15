@@ -1,4 +1,4 @@
-<h3> <img src="./assets/Handwave.gif" width="100px"> I'm Ghaith Mlika</h3>
+<h3> <img src="./assets/Handwave.gif" width="100px" style="align-text:center;"> I'm Ghaith Mlika</h3>
 
 **`Computer Science Student (Developer)`**
 
