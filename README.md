@@ -1,4 +1,4 @@
-# <img src="./assets/Handwave.gif" width="29px"> I'm Ghaith Mlika
+<img src="./assets/Handwave.gif" width="50px"> <h3>I'm Ghaith Mlika</h3>
 
 **`Computer Science Student (Developer)`**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Technologies
+👨‍💻 <h3>Technologies</h3>
 
 [![Java](https://custom-icon-badges.demolab.com/badge/-Java-bb3e03?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Javascript](https://custom-icon-badges.demolab.com/badge/-Javascript-ffd60a?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
