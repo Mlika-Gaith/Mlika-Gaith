@@ -1,8 +1,6 @@
-<div id="qr" style="display:inline-block; min-width:2cm; height:2cm; align: center;vertical-align: middle;" >
+<div id="qr" style="display:flex;align_items:center;" >
   <img src="./assets/Handwave.gif" style="height:2cm;">
-</div>
-<div style="display:inline-block;vertical-align: middle;">
-  <h3>I'm Ghaith</h3>
+  <h1>I AM Ghaith</h1>
 </div>
 
 **`Computer Science Student (Developer)`**
@@ -13,7 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Mlika-Gaith?label=Follow&style=social) &nbsp;
 ![Total Stars On Github](https://custom-icon-badges.demolab.com/github/stars/Mlika-Gaith?label=Total+Stars&color=yellow) &nbsp;
 
----
+--
 
 <h3>👨‍💻 Technologies I Use</h3>
 
