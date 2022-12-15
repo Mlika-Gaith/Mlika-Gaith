@@ -1,4 +1,8 @@
-<h3><img style="float: right;height:2cm;" src="./assets/Handwave.gif"> I am Ghaith</h3>
+<img align="left" width="100" height="100" src="./assets/Handwave.gif">
+
+```
+I AM Ghaith Mlika
+```
 
 **`Computer Science Student (Developer)`**
 
