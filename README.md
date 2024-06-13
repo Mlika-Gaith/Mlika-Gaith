@@ -10,7 +10,7 @@
 ## Technologies I use
 
 [![Java](https://custom-icon-badges.demolab.com/badge/-Java-bb3e03?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![Javascript](https://custom-icon-badges.demolab.com/badge/-Javascript-ffd60a?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/) [![Typescript](https://custom-icon-badges.demolab.com/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.typescriptlang.org/](https://www.python.org/))
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 [![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/) [![React Native](https://custom-icon-badges.demolab.com/badge/-ReactNative-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/) [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
