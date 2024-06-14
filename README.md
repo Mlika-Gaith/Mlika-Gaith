@@ -4,8 +4,6 @@
 
 **`Documenting My Learning Journey`**
 
-[![Linkedin: Ghaith](https://img.shields.io/badge/-Ghaith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghaith-mlika-305797214/)](https://www.linkedin.com/in/ghaith-mlika-305797214/)
-
 
 ## Technologies I use
 
